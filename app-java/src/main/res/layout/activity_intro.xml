@@ -1,0 +1,14 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.eress.closer.activity.IntroActivity">
+
+    <ImageView
+        android:id="@+id/introImage"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#A7D4E7"
+        android:src="@drawable/img_intro" />
+
+</RelativeLayout>
