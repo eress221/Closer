@@ -3,7 +3,7 @@ Android Wifi On/Off Icon
 
 
 # 요약
-스마트폰에서 와이파이 접속을 해제할 때 설정에서 와이파이 체크를 해제하면 되지만 설정화면으로 가거나 안드로이드 Status Bar를 내려서 하지 않고 바로 사용/해제 설정을 하기 위해 만들어졌습니다.
+스마트폰에서 와이파이 접속을 해제할 때 설정에서 와이파이 체크를 해제하면 되지만 설정화면으로 가거나 안드로이드 Status Bar를 내리지 않고 바로 사용/해제 설정을 하기 위해 만들어졌습니다. 어플을 다시 실행하거나 아이콘을 오른쪽으로 이동시키면 종료됩니다.
 
 
 # 권한 설정
@@ -17,7 +17,7 @@ Android Wifi On/Off Icon
 
 
 # License
-'''
+```
 MIT License
 
 Copyright (c) 2017  
@@ -39,4 +39,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-'''
+```
